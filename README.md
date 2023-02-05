@@ -40,5 +40,15 @@ Workflow Diagram
  ![image](https://user-images.githubusercontent.com/124515180/216833670-55d10df2-023a-43a4-bb04-22124a8cfbfe.png)
 
 
+Description of Modules
+
+
+•	RF transmitter and receiver module : The RF transmitter receives serial data and transmits it wirelessly through through its RF antenna.
+•	Rain Sensor : Rain Sensor module allows to measure moisture via analog output pins and it provides a digital output when a threshold of moisture exceeds.The rain sensor works on the principle of total internal reflection	An infrared light beams at a 45-
+degree angle on a clear area of the windshield is reflected and it is sensed by the sensor- inside the car. When it rains, the wet glass causes the light to scatter and lesser amount of light gets reflected back to the sensor.
+•	Ultrasonic Sensor : An ultrasonic sensor is an electronic device that measures the distance of a target object by emitting ultrasonic sound waves, and converts the reflected sound into an electrical signal
+•	Servo Motor : A servo motor is a type of motor that can rotate with great accuracy. This type of motor consists of a control circuit that provides feedback on the current position of the motor shaft, this feedback allows the servo motors to rotate with great accuracy.
+•	Buzzer : A 5V Active Alarm Buzzer Module for Arduino is an audio signaling device, which may be mechanical, electromechanical,
+•	Arduino : The Nano development board is the smallest and most complete board and 100% compatible with the official Arduino Nano card, and fully compatible with Windows, Mac, and Linux operating systems.
 
 
