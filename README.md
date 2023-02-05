@@ -1,5 +1,7 @@
 # Real-Time-water-level-monitoring-system
 
+In the past few years the rainfall in India has deviated from the normal pattern.It has become difficult to predict which region will face floods and which region will face droughts.Knowing the exact volume of water in river bodies can help trigger flood alerts in a much faster and efficient way.Similarly real time water monitoring can help in calculated and efficient usage of water in case of droughts. We will be focusing on is increasing the range of network which would benefit from our project.We hope that this project provides most accurate prediction of the natural disaster beforehand to take precautionary measures accordingly.Achieving an automated dam is a part of our project including drought detection and we aim to perfect both the predictions.We also hope this project could be accessible and reliable for all the consumers.
+
 Drawbacks from existing system
 
 
@@ -33,3 +35,10 @@ Software and Hardware requirements
 2	Software
 
 •	Arduino programming software
+
+Workflow Diagram
+ ![image](https://user-images.githubusercontent.com/124515180/216833670-55d10df2-023a-43a4-bb04-22124a8cfbfe.png)
+
+
+
+
